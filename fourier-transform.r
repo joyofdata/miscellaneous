@@ -1,4 +1,5 @@
 # http://www.wolframalpha.com/share/clip?f=d41d8cd98f00b204e9800998ecf8427e444j5e41kd
+# http://math.stackexchange.com/questions/633668/how-to-scale-fourier-retransformation/633745?noredirect=1#633745
 
 a0<-1
 a1<-1
